@@ -26,3 +26,6 @@ Finding the approximate inverse of a Toeplitz matrix has several applications in
 - Communication Systems
 
 By providing an optimized and fast algorithm for computing the matrix multiplication involving a Toeplitz matrix, this code offers a valuable tool for researchers, engineers, and practitioners working in these and related fields.
+
+## Contributing
+Contributions to this repository are welcome. If you find any issues or have improvements to suggest, feel free to open an issue or submit a pull request.
